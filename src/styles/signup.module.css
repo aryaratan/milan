@@ -1,0 +1,51 @@
+/* body {
+  
+} */
+
+.container {
+  margin: 0;
+  text-align: center;
+  padding: 10px;
+  margin: auto;
+  margin-top: 10%;
+  width: 40%;
+  box-sizing: border-box;
+  height: auto;
+  background-color: aliceblue;
+}
+
+.texts {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+.names {
+  width: 40%;
+  height: 30px;
+}
+
+.idPas {
+  height: 30px;
+  width: 80%;
+  margin-top: 20px;
+  padding-left: 3%;
+}
+
+.btn {
+  display: block;
+  /* margin-top: 20px; */
+  margin: auto;
+  margin-top: 20px;
+  width: 25%;
+  background-color: #0bb50b;
+  font-size: 1.2rem;
+  color: white;
+  font-weight: bold;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+}
